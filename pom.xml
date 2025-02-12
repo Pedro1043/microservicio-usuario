@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.medes</groupId>
-	<artifactId>microservicio-usuario</artifactId>
+	<artifactId>microservicio-usuario-sin-token</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservicio-usuario</name>
 	<description>Microservicio de usuarios</description>
